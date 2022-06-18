@@ -1,0 +1,14 @@
+#+TITLE: Ali Shahidi's optimization util
+#+AUTHOR: Ali Shahidi
+#+DESCRIPTION: Ali Shahidi's optimization script.
+#+OPTIONS: num:nil ^:{}
+#+STARTUP: showeverything
+
+* What is this
+
+A usefull tools write in nodejs and work with sharp js
+
+can optimize your images in directory and
+
+also you can set start point at number type for rename all image to number format
+like =1.jpg 2.jpg ....=

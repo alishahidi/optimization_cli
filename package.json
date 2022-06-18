@@ -1,0 +1,25 @@
+{
+  "name": "optimization",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "lodash": "^4.17.21",
+    "ora": "^6.1.0",
+    "sharp": "^0.30.6",
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
+}
